@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Podcast C-Radio</title>
-    <description>Kênh Podcast tự động</description>
+    <title>Cú Radio</title>
+    <description>Cú Radio là một góc nhỏ dành cho những đêm muộn - nơi bạn có thể thả lỏng, nghe vài câu chuyện nhẹ nhàng và từ từ chìm vào giấc ngủ.</description>
     <link>https://github.com/Daoha1010/C-Radio</link>
+    <language>vi</language>
+    <itunes:author>Laura Huynh</itunes:author>
+    <itunes:owner>
+      <itunes:name>Laura Huynh</itunes:name>
+      <itunes:email>hadmkt@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/Daoha1010/C-Radio/main/n8n/logo%20cu%20radio.png"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
     
   <item>
     <title>Tập Podcast Mới</title>
