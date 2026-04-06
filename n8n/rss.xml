@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Podcast C-Radio</title>
-    <description>Kênh Podcast tự động</description>
-    <link>https://github.com/Daoha1010/C-Radio</link>
-    
+
+    <channel>
+  <title>Cú Radio</title>
+  <description>Kênh Podcast tự động</description>
+  <link>https://github.com/Daoha1010/C-Radio</link>
+  
+  <language>vi</language>
+  <itunes:author>Tên của bạn</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://link-anh-cover.jpg"/>
+  <itunes:category text="History"/>
+
   <item>
     <title>Tập Podcast Mới</title>
     <description>Chào mừng quý vị và các bạn đang lắng nghe Podcast Sử Việt. Hôm nay, chúng ta sẽ cùng ngược dòng thời gian gần hai ngàn năm, trở về với một trong những trang sử hào hùng và oanh liệt nhất của dân tộc: Cuộc khởi nghĩa Hai Bà Trưng.
